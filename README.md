@@ -1,6 +1,6 @@
 # Image Registration
-Image I: Reference image
-Image J: Real Image
++ Image I: Reference image
++ Image J: Real Image
 
 ![Reg](./RegImg/RegImg_0.png)
 
