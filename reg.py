@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 import os
 import cv2
 import numpy as np
@@ -12,8 +13,7 @@ from skimage.exposure import match_histograms
 
 
 def ImageRegistration(I, J, dx, dy):
-    """
-    图像配准，给定偏移量，将两张图像合成
+    """图像配准，给定偏移量，将两张图像合成
     
     Arguments:
     -----------
